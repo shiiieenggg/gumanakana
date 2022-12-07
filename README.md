@@ -1,0 +1,2 @@
+# gumanakana
+kaloka kana
